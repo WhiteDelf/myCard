@@ -1,0 +1,16 @@
+.background {
+    background-image: linear-gradient(to bottom, #1f1f1f, #444444);
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.content {
+    text-align: center;
+    color: #ffffff;
+    padding: 50px;
+    max-width: 600px;
+}
